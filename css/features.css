@@ -120,6 +120,12 @@ a {
   margin: 0% 10%;
 }
 
+@media screen and (max-width: 991px) {
+  .SpecialActive {
+    margin: 0 5px;
+  }
+}
+
 .SpecialActive .mainTitle {
   margin-bottom: 90px;
 }

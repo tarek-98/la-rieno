@@ -126,6 +126,13 @@ a {
   border: 1px solid var(--gray-color);
 }
 
+@media screen and (max-width: 991px) {
+  .payment .box {
+    margin: 0 5px;
+    padding: 3% 3%;
+  }
+}
+
 .payment .box::before {
   content: "";
   position: absolute;

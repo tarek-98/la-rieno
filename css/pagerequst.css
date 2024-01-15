@@ -124,6 +124,12 @@ a {
   padding: 0% 20%;
 }
 
+@media screen and (max-width: 991px) {
+  .pagerequst .box {
+    padding: 0 5px;
+  }
+}
+
 .pagerequst .box .page-number {
   flex-wrap: wrap;
 }

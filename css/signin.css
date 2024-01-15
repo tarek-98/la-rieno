@@ -123,6 +123,13 @@ a {
   padding-right: 15%;
 }
 
+@media (max-width:991px) {
+  .content {
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
 .content .box {
   padding-left: 2%;
   padding-right: 2%;
